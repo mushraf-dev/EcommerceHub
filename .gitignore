@@ -1,0 +1,23 @@
+# Backend - Java / Maven
+sb-ecom-backend/target/
+
+# Frontend - React / Node
+ecom-frontend/node_modules/
+ecom-frontend/dist/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Environment variables
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
